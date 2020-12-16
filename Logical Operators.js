@@ -8,7 +8,7 @@ if ( mood === 'sleepy' && tirednessLevel > 8)
   }
 
 
-/* if run the first example, console displays: time to sleep */
+// if run the first code block, the result will be: time to sleep
 
 
 let mood = 'sleepy';
@@ -20,7 +20,7 @@ if ( mood === 'sleepy' && tirednessLevel > 8)
     console.log('not bed time yet')
   }
 
-/* if run the second example, console displays: not bed time yet */
+// if run the second code block, the result will be: not bed time yet
 
 let mood = 'sleepy';
 let tirednessLevel = 7;
@@ -31,5 +31,5 @@ if ( mood === 'sleepy' || tirednessLevel > 4+5)
     console.log('not bed time yet')
   }
 
-/* if run the third example, console displays: time to sleep */
+// if run the third code block, the result will be: time to sleep
 
