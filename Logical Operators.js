@@ -7,7 +7,6 @@ if ( mood === 'sleepy' && tirednessLevel > 8)
     console.log('not bed time yet')
   }
 
-
 // if run the first code block, the result will be: time to sleep
 
 
